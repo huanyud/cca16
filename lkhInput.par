@@ -1,0 +1,4 @@
+PROBLEM_FILE = lkhInput.tsp
+OUTPUT_TOUR_FILE = lkhOutput.txt
+MOVE_TYPE = 5
+RUNS = 5
